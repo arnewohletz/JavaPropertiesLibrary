@@ -1,0 +1,15 @@
+COPYRIGHT.txt
+MANIFEST.in
+README
+requirements.txt
+setup.cfg
+setup.py
+docs/JavaPropertiesLibrary.html
+src/JavaPropertiesLibrary/__init__.py
+src/JavaPropertiesLibrary/keywords/JavaPropertiesLibrary.py
+src/JavaPropertiesLibrary/keywords/__init__.py
+src/robotframework_javaproperties.egg-info/PKG-INFO
+src/robotframework_javaproperties.egg-info/SOURCES.txt
+src/robotframework_javaproperties.egg-info/dependency_links.txt
+src/robotframework_javaproperties.egg-info/requires.txt
+src/robotframework_javaproperties.egg-info/top_level.txt

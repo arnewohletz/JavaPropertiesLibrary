@@ -1,0 +1,12 @@
+robotframework-javaproperties
+=============================
+
+robotframework-javaproperties is a java properties files handler test library
+for Robot Framework.
+
+Feature:
+- Get all content from a properties file as a dictionary
+- Get single parameter values from properties files
+- Change parameters values in properties files
+
+Please check out the html keyword doc file for more info

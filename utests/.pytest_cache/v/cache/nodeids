@@ -1,0 +1,6 @@
+[
+  "test_JavaPropertiesLibrary.py::test_something",
+  "test_JavaPropertiesLibrary.py::test_get_properties_file_content",
+  "test_JavaPropertiesLibrary.py::test_get_properties_value",
+  "test_JavaPropertiesLibrary.py::test_change_properties_value"
+]

@@ -1,0 +1,6 @@
+invoke
+docutils
+rellu
+pytest
+
+-r requirements-dev.txt

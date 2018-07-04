@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: robotframework-javaproperties
+Version: 0.1
+Summary: Java properties files library for Robot Framework
+Home-page: https://no/url
+Author: Arne Wohletz
+Author-email: a.wohletz@erhardt-leimer.com
+License: Apache License 2.0
+Description: UNKNOWN
+Keywords: robotframework javaproperties testautomation
+Platform: any
